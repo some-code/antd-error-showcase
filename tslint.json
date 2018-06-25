@@ -1,0 +1,12 @@
+{
+  "extends": ["tslint-config-alloy"],
+  "rules": {
+    "no-non-null-assertion": false
+  },
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts"
+    ]
+  }
+}

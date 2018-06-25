@@ -1,0 +1,18 @@
+.flex{display:flex; flex-direction: row}
+.flex-v{display:flex; flex-direction:column;}
+.flex-1{flex:1;}
+.flex-align-center{align-items:center;}
+.flex-pack-center{justify-content:center;}
+.flex-pack-justify{justify-content:space-between;}
+
+#root, 
+.pages, 
+.page{
+  height: 100%;
+}
+.ant-layout-header{
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  height: 44px; 
+  line-height: 44px;
+}
