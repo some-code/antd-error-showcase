@@ -1,6 +1,9 @@
-import * as React from 'react';
-// import 'antd/dist/antd.css';
 import './App.css';
+
+import * as React from 'react';
+
+// import 'antd/dist/antd.css';
+
 class App extends React.Component<any, any> {
   constructor(props: any) {
     super(props);
