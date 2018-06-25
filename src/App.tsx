@@ -1,4 +1,7 @@
+import './App.css';
+
 import * as React from 'react';
+
 // import { Router } from '@reach/router';
 // import 'antd/dist/antd.css';
 import './App.css';
